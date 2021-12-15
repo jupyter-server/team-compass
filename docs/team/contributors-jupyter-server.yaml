@@ -1,0 +1,62 @@
+# Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
+
+- name: Kevin Bates
+  handle: "@kevin-bates"
+  affiliation: IBM
+  team: red
+  last-check-in: 2021-12
+
+- name: David Brochart
+  handle: "@davidbrochart"
+  affiliation: Quantstack
+  team: blue
+  last-check-in: 2021-12
+
+- name: Vidar Fauske
+  handle: "@vidartf"
+  affiliation: J.P. Morgan Chase
+  team: red
+  last-check-in: 2021-12
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Apple
+  team: lead
+  last-check-in: 2021-12
+
+- name: Steve Silvester
+  handle: "@blink1073"
+  affiliation: MongoDB
+  team: red
+  last-check-in: 2021-12
+
+- name: Mariki Wakabayashi
+  handle: "@mwakaba2"
+  affiliation: OpenZeppelin
+  team: red
+  last-check-in: 2021-12
+
+- name: Jessica Xu
+  handle: "@jess-x"
+  affiliation: Quansight
+  team: blue
+  last-check-in: 2021-12
+
+# Green team members at the end, also alphabetical
+- name: Eric Charles
+  handle: "@echarles"
+  affiliation: Datalayer
+  team: green
+  last-check-in: 2021-12
+
+- name: Afshin Darian
+  handle: "@afshin"
+  affiliation: Two Sigma
+  team: green
+  last-check-in: 2021-12
+
+- name: Jeremy Tuloup
+  handle: "@jtpio"
+  affiliation: Quantstack
+  team: green
+  last-check-in: 2021-12

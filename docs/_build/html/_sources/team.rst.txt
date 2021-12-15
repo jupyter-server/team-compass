@@ -1,0 +1,25 @@
+.. _core_team:
+
+Core Team
+=========
+
+There are lots of ways to contribute to the Jupyter Server community.
+Code, community interaction, documentation, bug testing, bug fixes, teaching,
+proslytizing, etc...we recognize any and all contributions!
+
+This page describes "self-described core" team members of the Jupyter Server
+community. These are people that spend a significant amount of their
+time contributing to the projects and community under the Jupyter Server umbrella.
+
+If you'd like to be included in the teams below**, submit a pull request to add your name and information to
+the `Jupyter Server team data <https://github.com/jupyter-server/team-compass/tree/master/docs/team/contributors-jupyter-server.yaml>`_
+YAML file.
+
+.. _jupyter-server-team:
+
+The process and governance for Jupyter Server can be found in the
+:ref:`jupyter-server-governance` page.
+
+Here is the current Jupyter Server team: (listed alphabetically, with affiliation, and main areas of contribution)
+
+.. include:: team/contributors-jupyter-server.txt
