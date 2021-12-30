@@ -74,8 +74,7 @@ Team roles
 -  **Red member.** You spend a large part of your time coordinating and
    promoting the Jupyter Server Project. You are expected to coordinate your actions with
    other red members so that the project presents a coherent position
-   towards the outside. You are expected to prepare and attend the
-   monthly team calls.
+   towards the outside. You are expected to engage the weekly meetings, either synchronously or asynchronously, semi-regularly.
 -  **Blue member.** This is where the journey of a new team member starts.
    You spend a large
    part of your time facilitating contributions from others to the
@@ -86,7 +85,7 @@ Team roles
 -  **Green member.** Your life situation has changed so that you prefer to
    (temporarily) not take on the rights and responsibilities of being an
    active member. You can return to active membership by resuming your
-   community activities. Your return will be announced at the next monthly
+   community activities. Your return will be announced at the next weekly
    team meeting.
 
 There are no other specific roles, but we may revisit this in the

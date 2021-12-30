@@ -3,7 +3,7 @@
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
-  team: red
+  team: green
   last-check-in: 2021-12
 
 - name: David Brochart
@@ -21,7 +21,7 @@
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Apple
-  team: lead
+  team: red
   last-check-in: 2021-12
 
 - name: Steve Silvester
