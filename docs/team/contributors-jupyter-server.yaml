@@ -1,11 +1,5 @@
 # Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
 
-- name: Kevin Bates
-  handle: "@kevin-bates"
-  affiliation: IBM
-  team: green
-  last-check-in: 2021-12
-
 - name: David Brochart
   handle: "@davidbrochart"
   affiliation: Quantstack
@@ -42,7 +36,19 @@
   team: blue
   last-check-in: 2021-12
 
+- name: Luciano Resende
+  handle: "@lresende"
+  affiliation: Apple
+  team: red
+  last-check-in: 2021-12
+
 # Green team members at the end, also alphabetical
+- name: Kevin Bates
+  handle: "@kevin-bates"
+  affiliation: IBM
+  team: green
+  last-check-in: 2021-12
+
 - name: Eric Charles
   handle: "@echarles"
   affiliation: Datalayer
