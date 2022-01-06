@@ -26,7 +26,7 @@ a quick list to get you started.
 ### General policy about communication channels
 
 We are trying to organize our discussions in order to help both contributors and
-maintainers find and choose the right communication channels and have a positive experience :-)
+maintainers find and choose the right communication channels and have a positive experience.
 
 In this respect, we are using:
 1. GitHub issues for specific discussions related to changing a repository's content
