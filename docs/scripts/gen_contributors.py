@@ -1,5 +1,6 @@
 """Generate HTML Contributors tables for team pages
 """
+import pathlib
 import pandas as pd
 import os
 import os.path as op
@@ -11,16 +12,11 @@ N_PER_ROW = 4
 # Init
 path_data = op.join(op.dirname(op.abspath(__file__)), "..", "team")
 yaml = yaml.YAML()
-keyvals = pd.read_csv(op.join(path_data, "contributor_key.csv"), index_col=0)
 
-template_start = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p class="contrib_affiliation">{AFFILIATION}</p>'
-template = (
-    template_start
-    + '<a href="team/governance.html#team-roles"><p class="team team-{TEAM}">team {TEAM}</p></a>'
-)
+template = '<td align="center" class="contrib_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p class="contrib_affiliation">{AFFILIATION}</p>'
 
 
-def _generate_contributors(contributors, keys):
+def _generate_contributors(contributors):
     """Generate an HTML list of contributors, given a dataframe of their information."""
     s = ['<table class="docutils contributors">', '<tr class="row-even">']
     for ix, person in contributors.iterrows():
@@ -41,7 +37,6 @@ def _generate_contributors(contributors, keys):
             AFFILIATION=person["affiliation"],
             AVATAR_URL=avatar_url,
             NAME=person["name"],
-            TEAM=person["team"],
         )
 
         # Render
@@ -53,12 +48,22 @@ def _generate_contributors(contributors, keys):
     final_text = "\n".join(final_text)
     return final_text
 
-
-contributor_file = op.join(path_data, "contributors-jupyter-server.yaml")
+# Load contributor list
+source_dir = pathlib.Path(path_data)
+contributor_file = source_dir / "contributors-jupyter-server.yaml"
 with open(contributor_file, "r") as ff:
     data = yaml.load(ff)
+
 people = pd.DataFrame(data)
-table = _generate_contributors(people, keyvals)
-new_name = os.path.splitext(contributor_file)[0]
-with open(new_name + ".txt", "w") as ff:
+
+# Create active member table
+active_people = people[people.team == "active"]
+table = _generate_contributors(active_people)
+with open(source_dir / "active.txt", "w") as ff:
+    ff.write(table)
+
+# Create inactive member table
+inactive_people = people[people.team == "inactive"]
+table = _generate_contributors(inactive_people)
+with open(source_dir / "inactive.txt", "w") as ff:
     ff.write(table)

@@ -1,4 +1,5 @@
 _build
-docs/team/contributors-*.txt
+docs/team/active.txt
+docs/team/inactive.txt
 .ipynb_checkpoints
 .vscode

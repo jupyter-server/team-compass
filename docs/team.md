@@ -1,20 +1,29 @@
-# Core Team
+# Current team members
 
-This page describes "self-described core" team members (listed alphabetically) of the Jupyter Server
-community. These are people that spend a significant amount of their
-time contributing to the projects and community under the Jupyter Server umbrella.
+This page lists (alphabetically) the officially named Jupyter Server Team.
 
-If you'd like to be included in the teams below, submit a pull request to add your name and information to
-the [Jupyter Server team data](https://github.com/jupyter-server/team-compass/tree/master/docs/team/contributors-jupyter-server.yaml)
-YAML file.
+## Active members
 
-(jupyter_server_team)=
-
-The process and governance for Jupyter Server can be found in the
-{ref}`jupyter-server-governance` page.
+Active team members are actively participating in the development, maintenance, planning, and discussion around projects in the Jupyter Server Github organization.
 
 ```{eval-rst}
 
-.. include:: team/contributors-jupyter-server.txt
+.. include:: team/active.txt
 
 ```
+
+## Inactive members
+
+Inactive team members are (temporarily or not) pausing their active participation in the Jupyter Server community. They can reactivate themselves at any point in the future; it does not require a nomination by a current active member.
+
+```{eval-rst}
+
+.. include:: team/inactive.txt
+
+```
+
+## Software Steering Council Representative
+
+Each *official* subproject in Jupyter gets a single [Software Steering Council Representative](https://jupyter.org/governance/software_steering_council.html#software-steering-council). Jupyter Server's representative is elected by the active team members. This representative *should* be re-elected every year (i.e. in January).
+
+(Jupyter Server's representative hasn't been nominated yet).

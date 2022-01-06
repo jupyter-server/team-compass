@@ -1,6 +1,6 @@
-===============================
-Team Compass for Jupyter Server
-===============================
+===========================
+Jupyter Server Team Compass
+===========================
 
 
 This page contains links to the notes from team meetings
@@ -19,7 +19,8 @@ governance and planning.
    :maxdepth: 1
 
    team
-   team/governance
+   team/becoming-member
+   team/decision-making
    team/member-guide
 
 Why have a Team Compass?
@@ -49,4 +50,4 @@ the burden and success.
 Code of Conduct
 ===============
 
-The Jupyter Server community follows the broader `Jupyter Community's Code of Conduct <https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md>`_.
+The Jupyter Server community follows the broader `Jupyter Community's Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>`_.
