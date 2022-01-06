@@ -1,3 +1,4 @@
+# Active Team members
 # Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
 - name: Kevin Bates
   handle: "@kevin-bates"
@@ -65,7 +66,7 @@
   team: active
   last-check-in: 2022-01
 
-# Green team members at the end, also alphabetical
+# Inactive team members at the end, also alphabetical
 - name: Jeremy Tuloup
   handle: "@jtpio"
   affiliation: Quantstack

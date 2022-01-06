@@ -41,19 +41,3 @@ table.contributors {
 p.team {
     font-size: .8em;
 }
-
-p.team-blue {
-    color: blue;
-}
-
-p.team-red {
-    color: red;
-}
-
-p.team-green {
-    color: green;
-}
-
-p.team-lead {
-    font-weight: bold;
-}
