@@ -27,7 +27,7 @@ Inactive members:
 
 Team members can freely pass between active and inactive at any time. They *should* publicly state their status change in an issue or PR. A subsequent pull request will be made to this page to update their status.
 
-This means an inactive team member can "reactivate" themselves at any time by publically stating their change in status. This does not require a nomination from another team member.
+This means an inactive team member can "reactivate" themselves at any time by publicly stating their change in status. This does not require a nomination from another team member.
 
 For example, a team member who is going out on a long leave/vacation can temporarily move to the inactive team during their absence and immediately reactivate upon return.
 
