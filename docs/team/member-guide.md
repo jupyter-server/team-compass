@@ -71,7 +71,7 @@ a few things that you should do as a new team member:
    When creating issues, provide enough context so that others can understand
    and provide their input. Encourage feedback and input from others
    often, and be patient when merging code - it is almost better to
-   wait a bit for an approve than to self-merge.
+   wait a bit for an approval than to self-merge.
 
 ## When should I merge a pull request?
 
