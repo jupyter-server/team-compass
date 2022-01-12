@@ -20,7 +20,7 @@ Active members:
 
 Inactive members:
 
-* Were previously an active team member
+* Were previously an active team member.
 * Do not vote.
 * Are not counted towards voting quorum.
 * Can "reactivate" at any time by expressing their change in status publicly.
