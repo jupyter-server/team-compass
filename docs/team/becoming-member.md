@@ -25,7 +25,7 @@ Inactive members:
 * Are not counted towards voting quorum.
 * Can "reactivate" at any time by expressing their change in status publicly.
 
-Team members can freely pass between active and inactive at any time. They *should* publicly state their status change in an issue or PR. A subsequent pull request will be made to this page to update their status.
+Team members can freely pass between active and inactive at any time. They *should* publicly state their status change in a pull request that updates the `contributors-jupyter-server.yaml` file with their status change.
 
 This means an inactive team member can "reactivate" themselves at any time by publicly stating their change in status. This does not require a nomination from another team member.
 
