@@ -14,7 +14,7 @@ Active members:
 * Can be elected as the Software Steering Council representative for Jupyter Server.
 * Get a vote in a voting situation.
 * Count towards quorum in a voting situation.
-* Expected to participate in a majority of the team votes.
+* Are expected to participate in a majority of the team votes.
 * Can nominate new team members.
 * Should actively participate, either synchronously or asynchronously, in team meetings.
 
