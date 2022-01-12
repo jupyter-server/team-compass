@@ -49,7 +49,7 @@ This process takes the following steps:
    in and ensure that there's general consensus before officially starting
    the process.
 2. If there seems to be team consensus,
-   the champion contacts the potential new team member and ask if they are
+   the champion contacts the potential new team member and asks if they are
    interested. Don't forget to run them by the {ref}`membership_guidelines`
    page to make sure they understand what they're signing up for.
    If so, then move to the next step.
