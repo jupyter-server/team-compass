@@ -55,7 +55,7 @@ a few things that you should do as a new team member:
    so that you're notified when team conversations are happening.
 2. **Stay up-to-date on team meetings**. You can find a notes from previous meetings pinned at
    the [top of the team-compass issues page](https://github.com/jupyter-server/team-compass/issues).
-3. **Vote**. Participate in at least 2/3 of votes happening in the team-compass repo. You should be   automatically pinged on Github when a vote is called.
+3. **Vote**. Participate in at least 2/3 of votes happening in the team-compass repo. You should be automatically pinged on Github when a vote is called.
 4. **Let us know if you'll be unavailable** or out of town for an extended period
    of time. It's no problem if you need to focus on other things for a bit, but it's
    helpful for the team to know who will be around.
