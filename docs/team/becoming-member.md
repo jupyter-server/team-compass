@@ -45,8 +45,8 @@ pull requests, participating in team meetings, etc.
 Any new team members must be nominated and championed by a pre-existing team member.
 This process takes the following steps:
 
-1. The champion should first discuss internally with team members to get buy-
-   in and ensure that there's general consensus before officially starting
+1. The champion should first discuss internally with team members to 
+   ensure that there's general consensus before officially starting
    the process.
 2. If there seems to be team consensus,
    the champion contacts the potential new team member and asks if they are
