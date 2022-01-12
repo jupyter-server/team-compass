@@ -42,7 +42,7 @@ putting in more time and effort than non-team members. This doesn't have to
 mean contributing code - it can be assisting others in forums/issues, reviewing
 pull requests, participating in team meetings, etc.
 
-Any new team members must be nominated and championed by a pre-existing team member.
+Any new team members must be nominated and championed by an active team member.
 This process takes the following steps:
 
 1. The champion should first discuss internally with team members to 
