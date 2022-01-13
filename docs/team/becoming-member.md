@@ -29,7 +29,7 @@ Team members can freely pass between active and inactive at any time. They *shou
 
 This means an inactive team member can "reactivate" themselves at any time by publicly stating their change in status. This does not require a nomination from another team member.
 
-For example, a team member who is going out on a long leave/vacation can temporarily move to the inactive team during their absence and immediately reactivate upon return.
+For example, a team member who is going out on a long leave/vacation (>2 weeks) can temporarily move to the inactive team during their absence and immediately reactivate upon return. This isn't required, but this can relieve them from having to watch this repository for any formal votes that happen during their absence. 
 
 ## Nominating a new member
 
