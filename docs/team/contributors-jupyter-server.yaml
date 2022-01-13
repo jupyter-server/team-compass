@@ -1,0 +1,74 @@
+# Active Team members
+# Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
+- name: Kevin Bates
+  handle: "@kevin-bates"
+  affiliation: IBM
+  team: active
+  last-check-in: 2021-12
+
+- name: David Brochart
+  handle: "@davidbrochart"
+  affiliation: Quantstack
+  team: active
+  last-check-in: 2022-01
+
+- name: Eric Charles
+  handle: "@echarles"
+  affiliation: Datalayer
+  team: active
+  last-check-in: 2022-01
+
+- name: Sylvain Corlay
+  handle: "@SylvainCorlay"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2022-01
+
+- name: Afshin Darian
+  handle: "@afshin"
+  affiliation: Two Sigma
+  team: active
+  last-check-in: 2022-01
+
+- name: Vidar Fauske
+  handle: "@vidartf"
+  affiliation: J.P. Morgan Chase
+  team: active
+  last-check-in: 2022-01
+
+- name: Luciano Resende
+  handle: "@lresende"
+  affiliation: Apple
+  team: active
+  last-check-in: 2022-01
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Apple
+  team: active
+  last-check-in: 2022-01
+
+- name: Steve Silvester
+  handle: "@blink1073"
+  affiliation: MongoDB
+  team: active
+  last-check-in: 2022-01
+
+- name: Mariko Wakabayashi
+  handle: "@mwakaba2"
+  affiliation: OpenZeppelin
+  team: active
+  last-check-in: 2022-01
+
+- name: Jessica Xu
+  handle: "@jess-x"
+  affiliation: Quansight
+  team: active
+  last-check-in: 2022-01
+
+# Inactive team members at the end, also alphabetical
+- name: Jeremy Tuloup
+  handle: "@jtpio"
+  affiliation: Quantstack
+  team: inactive
+  last-check-in: 2022-01
