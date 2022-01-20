@@ -1,5 +1,12 @@
 # Active Team members
 # Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
+
+- name: Damian Avila
+  handle: "@damianavila"
+  affiliation: UMSI and 2i2c
+  team: active
+  last-check-in: 2022-01
+
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
@@ -33,6 +40,18 @@
 - name: Vidar Fauske
   handle: "@vidartf"
   affiliation: J.P. Morgan Chase
+  team: active
+  last-check-in: 2022-01
+
+- name: Brian Granger
+  handle: "@ellisonbg"
+  affiliation: Amazon Web Services
+  team: active
+  last-check-in: 2022-01
+
+- name: Paul Ivanov
+  handle: "@ivanov"
+  affiliation: Noteable
   team: active
   last-check-in: 2022-01
 
