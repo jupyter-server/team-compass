@@ -79,6 +79,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Carol Willing
+  handle: "@willingc"
+  affiliation: Noteable
+  team: active
+  last-check-in: 2022-03
+
 - name: Jessica Xu
   handle: "@jess-x"
   affiliation: Quansight
