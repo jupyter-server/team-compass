@@ -73,12 +73,6 @@
   team: active
   last-check-in: 2022-01
 
-- name: Mariko Wakabayashi
-  handle: "@mwakaba2"
-  affiliation: OpenZeppelin
-  team: active
-  last-check-in: 2022-01
-
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Noteable
@@ -97,3 +91,9 @@
   affiliation: Quantstack
   team: inactive
   last-check-in: 2022-01
+  
+- name: Mariko Wakabayashi
+  handle: "@mwakaba2"
+  affiliation: OpenZeppelin
+  team: inactive
+  last-check-in: 2022-04
