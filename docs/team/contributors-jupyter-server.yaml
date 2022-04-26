@@ -43,6 +43,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Rahul Goyal
+  handle: "@rahul26goyal"
+  affiliation: Amazon Web Services
+  team: active
+  last-check-in: 2022-04
+
 - name: Brian Granger
   handle: "@ellisonbg"
   affiliation: Amazon Web Services
