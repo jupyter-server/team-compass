@@ -61,6 +61,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Piyush Jain
+  handle: "@3coins"
+  affiliation: Amazon Web Services
+  team: active
+  last-check-in: 2022-09
+
 - name: Luciano Resende
   handle: "@lresende"
   affiliation: Apple
@@ -97,7 +103,7 @@
   affiliation: Quantstack
   team: inactive
   last-check-in: 2022-01
-  
+
 - name: Mariko Wakabayashi
   handle: "@mwakaba2"
   affiliation: OpenZeppelin
