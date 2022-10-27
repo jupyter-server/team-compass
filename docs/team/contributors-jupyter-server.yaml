@@ -91,12 +91,6 @@
   team: active
   last-check-in: 2022-03
 
-- name: Jessica Xu
-  handle: "@jess-x"
-  affiliation: Quansight
-  team: active
-  last-check-in: 2022-01
-
 # Inactive team members at the end, also alphabetical
 - name: Jeremy Tuloup
   handle: "@jtpio"
@@ -109,3 +103,9 @@
   affiliation: OpenZeppelin
   team: inactive
   last-check-in: 2022-04
+
+- name: Jessica Xu
+  handle: "@jess-x"
+  affiliation: Cal Poly
+  team: inactive
+  last-check-in: 2022-10
