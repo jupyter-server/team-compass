@@ -5,107 +5,107 @@
   handle: "@damianavila"
   affiliation: UMSI and 2i2c
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
   team: active
-  last-check-in: 2021-12
+  last-check-in: 2024-01
 
 - name: David Brochart
   handle: "@davidbrochart"
   affiliation: Quantstack
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Eric Charles
   handle: "@echarles"
   affiliation: Datalayer
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Afshin Darian
   handle: "@afshin"
   affiliation: QuantStack
   team: active
-  last-check-in: 2023-05
+  last-check-in: 2024-01
 
 - name: Vidar Fauske
   handle: "@vidartf"
   affiliation: J.P. Morgan Chase
   team: active
-  last-check-in: 2022-01
-
-- name: Rahul Goyal
-  handle: "@rahul26goyal"
-  affiliation: Amazon Web Services
-  team: active
-  last-check-in: 2022-04
+  last-check-in: 2024-01
 
 - name: Brian Granger
   handle: "@ellisonbg"
   affiliation: Amazon Web Services
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Paul Ivanov
   handle: "@ivanov"
   affiliation: Noteable
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Piyush Jain
   handle: "@3coins"
   affiliation: Amazon Web Services
   team: active
-  last-check-in: 2022-09
+  last-check-in: 2024-01
 
 - name: Luciano Resende
   handle: "@lresende"
   affiliation: Apple
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Apple
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Steve Silvester
   handle: "@blink1073"
   affiliation: MongoDB
   team: active
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Noteable
   team: active
-  last-check-in: 2022-03
+  last-check-in: 2024-01
 
 # Inactive team members at the end, also alphabetical
 - name: Jeremy Tuloup
   handle: "@jtpio"
   affiliation: Quantstack
   team: inactive
-  last-check-in: 2022-01
+  last-check-in: 2024-01
 
 - name: Mariko Wakabayashi
   handle: "@mwakaba2"
   affiliation: OpenZeppelin
   team: inactive
-  last-check-in: 2022-04
+  last-check-in: 2024-01
 
 - name: Jessica Xu
   handle: "@jess-x"
   affiliation: Cal Poly
   team: inactive
-  last-check-in: 2022-10
+  last-check-in: 2024-01
+
+- name: Rahul Goyal
+  handle: "@rahul26goyal"
+  affiliation: Amazon Web Services
+  team: inactive
+  last-check-in: 2024-01
