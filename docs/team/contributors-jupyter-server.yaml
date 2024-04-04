@@ -7,12 +7,6 @@
   team: active
   last-check-in: 2024-01
 
-- name: Kevin Bates
-  handle: "@kevin-bates"
-  affiliation: IBM
-  team: active
-  last-check-in: 2024-01
-
 - name: David Brochart
   handle: "@davidbrochart"
   affiliation: Quantstack
@@ -86,6 +80,12 @@
   last-check-in: 2024-01
 
 # Inactive team members at the end, also alphabetical
+- name: Kevin Bates
+  handle: "@kevin-bates"
+  affiliation: Veritone
+  team: inactive
+  last-check-in: 2024-04
+
 - name: Jeremy Tuloup
   handle: "@jtpio"
   affiliation: Quantstack
