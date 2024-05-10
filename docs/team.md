@@ -42,4 +42,3 @@ Previous SSC representatives:
 .. include:: team/ssc-past.txt
 
 ```
-
