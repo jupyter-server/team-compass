@@ -26,4 +26,19 @@ Inactive team members are (temporarily or not) pausing their active participatio
 
 Each *official* subproject in Jupyter gets a single [Software Steering Council representative](https://jupyter.org/governance/software_steering_council.html#software-steering-council). Jupyter Server's representative is elected by the active team members. In the Jupyter Server subproject, our representative is elected to a one-year term.
 
-Jupyter Server's SSC representative is Zach Sailer.
+Current SSC Representative:
+
+```{eval-rst}
+
+.. include:: team/ssc-current.txt
+
+```
+
+
+Previous SSC representatives:
+
+```{eval-rst}
+
+.. include:: team/ssc-past.txt
+
+```

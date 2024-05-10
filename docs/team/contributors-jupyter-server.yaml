@@ -36,6 +36,8 @@
   affiliation: J.P. Morgan Chase
   team: active
   last-check-in: 2024-01
+  ssc:
+    - 2024/04-
 
 - name: Brian Granger
   handle: "@ellisonbg"
@@ -66,6 +68,8 @@
   affiliation: Apple
   team: active
   last-check-in: 2024-01
+  ssc:
+    - 2023/01-2024/04
 
 - name: Steve Silvester
   handle: "@blink1073"

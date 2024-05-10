@@ -1,5 +1,4 @@
 _build
-docs/team/active.txt
-docs/team/inactive.txt
+docs/team/*.txt
 .ipynb_checkpoints
 .vscode
