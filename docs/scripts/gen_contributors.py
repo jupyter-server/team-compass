@@ -67,3 +67,21 @@ inactive_people = people[people.team == "inactive"]
 table = _generate_contributors(inactive_people)
 with open(source_dir / "inactive.txt", "w") as ff:
     ff.write(table)
+
+# Find past and current SSC representatives
+ssc_reps = people[people.ssc.notna()]
+for index, rep in ssc_reps.iterrows():
+    # Fetch the latest term
+    latest_term = rep.ssc[-1]
+    # Split date and check if there is an end date.
+    is_current = latest_term.split("-")[-1] == ""
+    if is_current:
+        break
+
+table = _generate_contributors(rep.to_frame().T)
+with open(source_dir / "ssc-current.txt", "w") as ff:
+    ff.write(table)
+
+table = _generate_contributors(ssc_reps.drop(index))
+with open(source_dir / "ssc-past.txt", "w") as ff:
+    ff.write(table)
