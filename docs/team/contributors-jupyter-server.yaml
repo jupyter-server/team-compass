@@ -71,12 +71,6 @@
   ssc:
     - 2023/01-2024/04
 
-- name: Steve Silvester
-  handle: "@blink1073"
-  affiliation: MongoDB
-  team: active
-  last-check-in: 2024-01
-
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Noteable
