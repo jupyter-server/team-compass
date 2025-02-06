@@ -13,12 +13,6 @@
   team: active
   last-check-in: 2024-01
 
-- name: Eric Charles
-  handle: "@echarles"
-  affiliation: Datalayer
-  team: active
-  last-check-in: 2024-01
-
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
