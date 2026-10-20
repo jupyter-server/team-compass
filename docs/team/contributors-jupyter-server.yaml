@@ -11,25 +11,25 @@
   handle: "@davidbrochart"
   affiliation: Quantstack
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10
 
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10
 
 - name: Afshin Darian
   handle: "@afshin"
   affiliation: QuantStack
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10
 
 - name: Vidar Fauske
   handle: "@vidartf"
   affiliation: J.P. Morgan Chase
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10 
   ssc:
     - 2024/04-
 
@@ -37,7 +37,7 @@
   handle: "@ellisonbg"
   affiliation: Amazon Web Services
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10
 
 - name: Piyush Jain
   handle: "@3coins"
@@ -55,15 +55,15 @@
   handle: "@Zsailer"
   affiliation: Apple
   team: active
-  last-check-in: 2025-02
+  last-check-in: 2026-10
   ssc:
     - 2023/01-2024/04
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Noteable
-  team: active
-  last-check-in: 2025-02
+  team: inactive
+  last-check-in: 2026-10
 
 # Inactive team members at the end, also alphabetical
 - name: Kevin Bates
